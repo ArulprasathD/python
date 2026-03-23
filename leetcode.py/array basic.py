@@ -1,4 +1,4 @@
-"""
+
 #Array Traversal (Basic loop)
 
 a = [1, 2, 3]
@@ -102,7 +102,6 @@ for i  in range(len(array)):
             dup.append(array[i])
 print(dup)
 
-"""
 
 #Remove duplicates
 
